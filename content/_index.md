@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sup?
+description: Sup? sup?
 image_left: true
 images:
 - img/revoir.jpg
@@ -10,7 +10,7 @@ show_action_link: true
 show_social_links: true
 subtitle: Trial and error with dropbox
 text_align_left: false
-title: Trial
+title: Trial (and Error)
 type: home
 ---
 
