@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://dropboxtrial.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Trial and Error"
