@@ -1,7 +1,7 @@
 baseURL = "https://dropboxtrial.netlify.app"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Trial (and error?)"
+title = "Welcome to my personal webpage"
 author = "Ishan Anand"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
