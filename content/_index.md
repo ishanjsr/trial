@@ -5,7 +5,7 @@ action_type: text
 description: Sup? sup?
 image_left: true
 images:
-- img/revoir.jpg
+- img/anjana.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Trial and error with dropbox
